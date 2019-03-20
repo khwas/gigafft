@@ -1,1 +1,0 @@
-D:\all_tfs\GigaFFT\bin\Debug\ConsoleApplication1.exe.config
